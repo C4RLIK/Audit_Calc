@@ -108,12 +108,9 @@ openpyxl==3.0.10
 
 ---
 
-## **🎨 Логотип (для README.md)**
-```markdown
-![Audit Materiality Calculator](https://via.placeholder.com/150x50?text=Audit+Calculator)
-```
 
-## **🏷️ Теги (для GitHub)**
+
+## **🏷️ Теги **
 `#аудит` `#финансы` `#анализданных` `#python` `#streamlit`
 
 ---
